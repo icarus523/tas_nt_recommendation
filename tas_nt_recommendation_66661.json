@@ -1,0 +1,28 @@
+{
+    "Base_Version":"N/A",
+    "Game_Label":"JEM2QA50",
+    "Game_Name":"JESTER MAGIC",
+    "HMACSHA1":"NOT GENERATED",
+    "PSD_Info":[
+        {
+            "PSD_Hash":"3A98",
+            "PSD_Label":"2Q14PROG.IFU",
+            "PSD_Position":"U190"
+        },
+        {
+            "PSD_Hash":"6978",
+            "PSD_Label":"JEM2QA50.02L",
+            "PSD_Position":"U66"
+        },
+        {
+            "PSD_Hash":"6C7A",
+            "PSD_Label":"JEM2QA50.01H",
+            "PSD_Position":"U75"
+        },
+        {
+            "PSD_Hash":"E816",
+            "PSD_Label":"JEM21111.FMU",
+            "PSD_Position":"CNM"
+        }
+    ]
+}

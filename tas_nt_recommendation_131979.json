@@ -1,0 +1,18 @@
+{
+    "Base_Version":"KERNEL A2QLQ03B",
+    "Game_Label":"AMDKQL1D_03B_21",
+    "Game_Name":"MULTIDELUXE - KINGS COINS",
+    "HMACSHA1":"NOT GENERATED",
+    "PSD_Info":[
+        {
+            "PSD_Hash":"D07479930A139758782823960EEFE996D5FB07A9",
+            "PSD_Label":"A2QLQ03B",
+            "PSD_Position":"SSD0"
+        },
+        {
+            "PSD_Hash":"143D604FF5ACE9CC3E4272E75251815D8E933D1C",
+            "PSD_Label":"AMDKQL1D",
+            "PSD_Position":"SSD1"
+        }
+    ]
+}
